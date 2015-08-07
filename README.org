@@ -1,9 +1,9 @@
-OpenMOO2
+* OpenMOO2
 open source clone of Microprose game "Master of Orion II: Battle at Antares"
 
 version: 0.2-alpha / codename: procrastination
 
-=== General info ===
+** General info
 
 	Licensing / copying
 
@@ -34,7 +34,7 @@ version: 0.2-alpha / codename: procrastination
 			Windows 98/2000
 			*BSD
 
-=== Installation ===
+** Installation
 
 	* download and install recent version of Python 2.6 using your package manager or get it from http://python.org/
 
@@ -55,7 +55,7 @@ version: 0.2-alpha / codename: procrastination
 
 	the moo2 directory contains 10 SAVE*.GAM files - those are used for the game development right now...
 
-=== Running the server ===
+** Running the server
 
 	run server.bat (server.sh for unix like systems)
 
@@ -69,7 +69,7 @@ version: 0.2-alpha / codename: procrastination
 	if you want to try another savegame file use command line option:
 		-g <savegame file>
 
-=== Running the game client ===
+** Running the game client
 
 	run the client.bat (client.sh for unix like systems)
 
@@ -79,7 +79,7 @@ version: 0.2-alpha / codename: procrastination
 		-h <address>
 		-p <port>
 
-=== The game ===
+** The game
 
 	Actually the game is a bit far from being full playable...
 
